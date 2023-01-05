@@ -1,0 +1,15 @@
+{
+    "name": "youcode/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fathi-Amine",
+            "email": "aminefathimw@gmail.com"
+        }
+    ],
+    "require": {}
+}
